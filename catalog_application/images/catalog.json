@@ -1,0 +1,60 @@
+{
+  "Product": [
+    {
+      "id": 1,
+      "name": " iphone 12 max pro",
+      "desc": "Apple iphone 12th genreation",
+      "price": 999,
+      "color": "#33505a",
+      "image": "https://mediacenterpk.com/image/catalog/Apple/03-10-19/Apple/iPhone-12-Pro-Max/128-GB/Grp.png"
+    },
+    {
+      "id": 2,
+      "name": " pixel 6 pro ",
+      "desc": "Google pixel 5generation ",
+      "price": 988,
+      "color": "#33505a",
+      "image": "https://cdnen.soyacincau.com/2021/05/210521-google-pixel-6-pro-4.jpg"
+    },
+    {
+      "id": 3,
+      "name": " realme xt",
+      "desc": "realme 5generation ",
+      "price": 55,
+      "color": "#366505a",
+      "image": "https://www.allphones.com.au/media/catalog/product/cache/347202e280a7532e6c8c1ee22c877bef/r/e/realme-xt-cfg.jpg"
+    },
+    {
+      "id": 4,
+      "name": " Vivo v23",
+      "desc": "vivo 7 generation",
+      "price": 555,
+      "color": "#366505a",
+      "image": "https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1662443181/Croma%20Assets/Communication/Mobiles/Images/246699_fqepas.png/mxw_1440,s_webp,f_auto"
+    },
+    {
+      "id": 5,
+      "name": " oppo Reno4",
+      "desc": "Oppo 6generation ",
+      "price": 777,
+      "color": "#4695a",
+      "image": "https://static.digit.in/product/29f79e7eeacbb8e1ba68d3532fea60a387104965.jpeg?tr=w-1200"
+    },
+    {
+      "id": 6,
+      "name": "Samsung not10",
+      "desc": "Oppo 6generation ",
+      "price": 1080,
+      "color": "#4695a",
+      "image": "https://d2xamzlzrdbdbn.cloudfront.net/products/48d3cb39-0c85-4021-a25a-5d74f7d82d5022231135_416x416.jpg"
+    },
+    {
+      "id": 7,
+      "name": "mi not11",
+      "desc": "mi 7generation ",
+      "price": 1080,
+      "color": "#4695a",
+      "image": "https://d2xamzlzrdbdbn.cloudfront.net/products/48d3cb39-0c85-4021-a25a-5d74f7d82d5022231135_416x416.jpg"
+    }
+  ]
+}
